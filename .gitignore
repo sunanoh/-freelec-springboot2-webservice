@@ -2,3 +2,5 @@
 .gradle
 .ignore
 .idea
+
+application-oauth.properties
